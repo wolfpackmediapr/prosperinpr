@@ -1,0 +1,1051 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+			<title>Prosper In PR</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='max-image-preview:large' />
+<title>Prosper In PR</title>
+<link rel="alternate" type="application/rss+xml" title="Prosper In PR &raquo; Feed" href="https://prosperinpr.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Prosper In PR &raquo; Comments Feed" href="https://prosperinpr.com/index.php/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/prosperinpr.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://prosperinpr.com/wp-includes/css/dashicons.min.css?ver=6.4.1' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://prosperinpr.com/wp-includes/css/admin-bar.min.css?ver=6.4.1' media='all' />
+<style id='admin-bar-inline-css'>
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.17.3' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.17.3' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #f9f9f9;--wp--preset--color--base-2: #ffffff;--wp--preset--color--contrast: #111111;--wp--preset--color--contrast-2: #636363;--wp--preset--color--contrast-3: #A4A4A4;--wp--preset--color--accent: #cfcabe;--wp--preset--color--accent-2: #c2a990;--wp--preset--color--accent-3: #d8613c;--wp--preset--color--accent-4: #b1c5a4;--wp--preset--color--accent-5: #b5bdbc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--gradient-1: linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-2: linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-3: linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-4: linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-5: linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-6: linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-7: linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-8: linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-9: linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-10: linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-11: linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-12: linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%);--wp--preset--font-size--small: 0.9rem;--wp--preset--font-size--medium: 1.05rem;--wp--preset--font-size--large: clamp(1.39rem, 1.39rem + ((1vw - 0.2rem) * 0.767), 1.85rem);--wp--preset--font-size--x-large: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.083), 2.5rem);--wp--preset--font-size--xx-large: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.283), 3.27rem);--wp--preset--font-family--body: "Inter", sans-serif;--wp--preset--font-family--heading: Cardo;--wp--preset--font-family--system-sans-serif: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;--wp--preset--font-family--system-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;--wp--preset--spacing--10: 1rem;--wp--preset--spacing--20: min(1.5rem, 2vw);--wp--preset--spacing--30: min(2.5rem, 3vw);--wp--preset--spacing--40: min(4rem, 5vw);--wp--preset--spacing--50: min(6.5rem, 8vw);--wp--preset--spacing--60: min(10.5rem, 13vw);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 620px;--wp--style--global--wide-size: 1280px; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) { padding-right: 0; padding-left: 0; }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(.has-global-padding:not(.wp-block-block)) > .alignfull { margin-right: 0; margin-left: 0; }.has-global-padding > .alignfull:where(:not(.has-global-padding):not(.is-layout-flex):not(.is-layout-grid)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding :where(.has-global-padding) > .alignfull:where(:not(.has-global-padding)) > :where([class*="wp-block-"]:not(.alignfull):not([class*="__"]),p,h1,h2,h3,h4,h5,h6,ul,ol) { padding-right: 0; padding-left: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.2rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 1.2rem; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 1.2rem;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 1.2rem;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 1.2rem;}:where(body .is-layout-grid) {gap: 1.2rem;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--body);font-size: var(--wp--preset--font-size--medium);font-style: normal;font-weight: 400;line-height: 1.55;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: var(--wp--preset--spacing--50);--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: var(--wp--preset--spacing--50);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: underline;}a:where(:not(.wp-element-button)):hover{text-decoration: none;}h1, h2, h3, h4, h5, h6{color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--heading);font-weight: 400;line-height: 1.2;}h1{font-size: var(--wp--preset--font-size--xx-large);line-height: 1.15;}h2{font-size: var(--wp--preset--font-size--x-large);}h3{font-size: var(--wp--preset--font-size--large);}h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}h5{font-size: var(--wp--preset--font-size--medium);}h6{font-size: var(--wp--preset--font-size--small);}.wp-element-button, .wp-block-button__link{background-color: var(--wp--preset--color--contrast);border-radius: .33rem;border-color: var(--wp--preset--color--contrast);border-width: 0;color: var(--wp--preset--color--base);font-family: inherit;font-size: var(--wp--preset--font-size--small);font-style: normal;font-weight: 500;line-height: inherit;padding-top: 0.6rem;padding-right: 1rem;padding-bottom: 0.6rem;padding-left: 1rem;text-decoration: none;}.wp-element-button:hover, .wp-block-button__link:hover{background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);}.wp-element-button:focus, .wp-block-button__link:focus{background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);outline-color: var(--wp--preset--color--contrast);outline-offset: 2px;outline-style: dotted;outline-width: 1px;}.wp-element-button:active, .wp-block-button__link:active{background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}.wp-element-caption, .wp-block-audio figcaption, .wp-block-embed figcaption, .wp-block-gallery figcaption, .wp-block-image figcaption, .wp-block-table figcaption, .wp-block-video figcaption{color: var(--wp--preset--color--contrast-2);font-family: var(--wp--preset--font-family--body);font-size: 0.8rem;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-base-2-color{color: var(--wp--preset--color--base-2) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-color{color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-color{color: var(--wp--preset--color--contrast-3) !important;}.has-accent-color{color: var(--wp--preset--color--accent) !important;}.has-accent-2-color{color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-color{color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-color{color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-color{color: var(--wp--preset--color--accent-5) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-base-2-background-color{background-color: var(--wp--preset--color--base-2) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-background-color{background-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-background-color{background-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-background-color{background-color: var(--wp--preset--color--accent) !important;}.has-accent-2-background-color{background-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-background-color{background-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-background-color{background-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-background-color{background-color: var(--wp--preset--color--accent-5) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-base-2-border-color{border-color: var(--wp--preset--color--base-2) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-border-color{border-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-border-color{border-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-border-color{border-color: var(--wp--preset--color--accent) !important;}.has-accent-2-border-color{border-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-border-color{border-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-border-color{border-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-border-color{border-color: var(--wp--preset--color--accent-5) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-gradient-1-gradient-background{background: var(--wp--preset--gradient--gradient-1) !important;}.has-gradient-2-gradient-background{background: var(--wp--preset--gradient--gradient-2) !important;}.has-gradient-3-gradient-background{background: var(--wp--preset--gradient--gradient-3) !important;}.has-gradient-4-gradient-background{background: var(--wp--preset--gradient--gradient-4) !important;}.has-gradient-5-gradient-background{background: var(--wp--preset--gradient--gradient-5) !important;}.has-gradient-6-gradient-background{background: var(--wp--preset--gradient--gradient-6) !important;}.has-gradient-7-gradient-background{background: var(--wp--preset--gradient--gradient-7) !important;}.has-gradient-8-gradient-background{background: var(--wp--preset--gradient--gradient-8) !important;}.has-gradient-9-gradient-background{background: var(--wp--preset--gradient--gradient-9) !important;}.has-gradient-10-gradient-background{background: var(--wp--preset--gradient--gradient-10) !important;}.has-gradient-11-gradient-background{background: var(--wp--preset--gradient--gradient-11) !important;}.has-gradient-12-gradient-background{background: var(--wp--preset--gradient--gradient-12) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-body-font-family{font-family: var(--wp--preset--font-family--body) !important;}.has-heading-font-family{font-family: var(--wp--preset--font-family--heading) !important;}.has-system-sans-serif-font-family{font-family: var(--wp--preset--font-family--system-sans-serif) !important;}.has-system-serif-font-family{font-family: var(--wp--preset--font-family--system-serif) !important;}
+.wp-block-calendar.wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast-2);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast-2)}.wp-block-calendar table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast-2)}.wp-block-categories{}.wp-block-categories{list-style-type:none;}.wp-block-categories li{margin-bottom: 0.5rem;}.wp-block-post-comments-form{}.wp-block-post-comments-form textarea, .wp-block-post-comments-form input{border-radius:.33rem}.wp-block-loginout{}.wp-block-loginout input{border-radius:.33rem;padding:calc(0.667em + 2px);border:1px solid #949494;}.wp-block-post-terms{}.wp-block-post-terms .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast-2);}.wp-block-query-title{}.wp-block-query-title span{font-style: italic;}.wp-block-quote{}.wp-block-quote :where(p){margin-block-start:0;margin-block-end:calc(var(--wp--preset--spacing--10) + 0.5rem);}.wp-block-quote :where(:last-child){margin-block-end:0;}.wp-block-quote.has-text-align-right.is-style-plain, .rtl .is-style-plain.wp-block-quote:not(.has-text-align-center):not(.has-text-align-left){border-width: 0 2px 0 0;padding-left:calc(var(--wp--preset--spacing--20) + 0.5rem);padding-right:calc(var(--wp--preset--spacing--20) + 0.5rem);}.wp-block-quote.has-text-align-left.is-style-plain, body:not(.rtl) .is-style-plain.wp-block-quote:not(.has-text-align-center):not(.has-text-align-right){border-width: 0 0 0 2px;padding-left:calc(var(--wp--preset--spacing--20) + 0.5rem);padding-right:calc(var(--wp--preset--spacing--20) + 0.5rem)}.wp-block-search{}.wp-block-search .wp-block-search__input{border-radius:.33rem}.wp-block-separator{}.wp-block-separator:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull){width: var(--wp--preset--spacing--60)}
+</style>
+<style id='wp-block-template-skip-link-inline-css'>
+
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://prosperinpr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.3' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://prosperinpr.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.2.2' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://prosperinpr.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.2.2' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://prosperinpr.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.2.2' media='all' />
+<link rel='stylesheet' id='woocommerce-blocktheme-css' href='https://prosperinpr.com/wp-content/plugins/woocommerce/assets/css/woocommerce-blocktheme.css?ver=8.2.2' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='text-editor-style-css' href='https://prosperinpr.com/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.8.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://prosperinpr.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.0.2' media='all' />
+<link rel='stylesheet' id='wp-fastest-cache-toolbar-css' href='https://prosperinpr.com/wp-content/plugins/wp-fastest-cache/css/toolbar.css?ver=1700460186' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.3' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-24-css' href='https://prosperinpr.com/wp-content/uploads/elementor/css/post-24.css?ver=1700259920' media='all' />
+<link rel='stylesheet' id='elementor-post-357-css' href='https://prosperinpr.com/wp-content/uploads/elementor/css/post-357.css?ver=1700259921' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.17.3' media='all' />
+<link rel='stylesheet' id='gutenverse-frontend-font-awesome-css' href='https://prosperinpr.com/wp-content/plugins/gutenverse/assets/fontawesome/css/all.min.css?ver=1.8.9' media='all' />
+<link rel='stylesheet' id='gutenverse-frontend-icon-gutenverse-css' href='https://prosperinpr.com/wp-content/plugins/gutenverse/assets/gtnicon/gtnicon.css?ver=1.8.9' media='all' />
+<link rel='stylesheet' id='gutenverse-frontend-style-css' href='https://prosperinpr.com/wp-content/plugins/gutenverse/assets/css/frontend-block.css?ver=1.8.9' media='all' />
+<link rel='stylesheet' id='gutenverse-frontend-icons-css' href='https://prosperinpr.com/wp-content/plugins/gutenverse/assets/css/frontend-icon.css?ver=1.8.9' media='all' />
+<link rel='stylesheet' id='gutenverse-toolbar-css' href='https://prosperinpr.com/wp-content/plugins/gutenverse/assets/css/toolbar.css?ver=1.8.9' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://prosperinpr.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.0.2' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://prosperinpr.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.0.2' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CWork+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRaleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.4.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://prosperinpr.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.17.3" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://prosperinpr.com/index.php/wp-json/" /><link rel="alternate" type="application/json" href="https://prosperinpr.com/index.php/wp-json/wp/v2/pages/357" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://prosperinpr.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<meta name="generator" content="WooCommerce 8.2.2" />
+<link rel="canonical" href="https://prosperinpr.com/" />
+<link rel='shortlink' href='https://prosperinpr.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://prosperinpr.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprosperinpr.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://prosperinpr.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprosperinpr.com%2F&#038;format=xml" />
+		<style id="gutenverse-global-css"> 
+			:root { 
+            --guten-screen-xs-max: 767px;
+            --guten-screen-sm-min: 768px;
+            --guten-screen-sm-max: 1024px;
+            --guten-screen-md-min: 1025px; 
+        }		</style>
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.17.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style id='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://prosperinpr.com/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://prosperinpr.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:italic;font-weight:400;font-display:fallback;src:url('https://prosperinpr.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:normal;font-weight:700;font-display:fallback;src:url('https://prosperinpr.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2') format('woff2');}
+</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-357 logged-in admin-bar no-customize-support wp-embed-responsive theme-twentytwentyfour woocommerce-block-theme-has-button-styles woocommerce-no-js elementor-default elementor-template-canvas elementor-kit-24 elementor-page elementor-page-357">
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://prosperinpr.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://prosperinpr.com/wp-admin/about.php'>About WordPress</a></li><li id='wp-admin-bar-contribute'><a class='ab-item' href='https://prosperinpr.com/wp-admin/contribute.php'>Get Involved</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li><li id='wp-admin-bar-learn'><a class='ab-item' href='https://learn.wordpress.org/'>Learn WordPress</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://prosperinpr.com/wp-admin/'>Prosper In PR</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://prosperinpr.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://prosperinpr.com/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-site-editor'><a class='ab-item' href='https://prosperinpr.com/wp-admin/site-editor.php?postType=wp_template&#038;postId=twentytwentyfour//page'>Edit site</a></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://prosperinpr.com/wp-admin/customize.php?url=https%3A%2F%2Fprosperinpr.com%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://prosperinpr.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">1 update available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://prosperinpr.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://prosperinpr.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://prosperinpr.com/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='https://prosperinpr.com/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=9402d37822#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=product'>Product</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=shop_order'>Order</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=shop_coupon'>Coupon</a></li><li id='wp-admin-bar-new-gutenverse-form'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post-new.php?post_type=gutenverse-form'>Form Action</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://prosperinpr.com/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://prosperinpr.com/wp-admin/post.php?post=357&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-gutenverse' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span><img src="https://prosperinpr.com/wp-content/plugins/gutenverse/assets/icon/icon-logo-dashboard.svg"/>Gutenverse</span></div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gutenverse-default' class="ab-submenu"><li id='wp-admin-bar-no-template'><div class="ab-item ab-empty-item">Not a Block Themes</div></li><li id='wp-admin-bar-space'><div class="ab-item ab-empty-item"></div></li><li id='wp-admin-bar-backend' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Gutenverse Admin</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-backend-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse'>Dashboard</a></li><li id='wp-admin-bar-block-list'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse&#038;path=block-list'>Block List</a></li><li id='wp-admin-bar-theme-list'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse&#038;path=theme-list'>Theme List</a></li><li id='wp-admin-bar-settings'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse&#038;path=settings'>Settings</a></li><li id='wp-admin-bar-system'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse&#038;path=system'>System Status</a></li><li id='wp-admin-bar-update-notice'><a class='ab-item' href='https://prosperinpr.com/wp-admin/admin.php?page=gutenverse&#038;path=update-notice'>Update Notice</a></li><li id='wp-admin-bar-form'><a class='ab-item' href='https://prosperinpr.com/wp-admin/edit.php?post_type=gutenverse-form'>Form Action</a></li><li id='wp-admin-bar-form-entries'><a class='ab-item' href='https://prosperinpr.com/wp-admin/edit.php?post_type=gutenverse-entries'>Form Entries</a></li></ul></div></li><li id='wp-admin-bar-gutenverse-site-editor' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Template Editor</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-gutenverse-site-editor-default' class="ab-submenu"><li id='wp-admin-bar-gutenverse-template'><a class='ab-item' href='https://prosperinpr.com/wp-admin/site-editor.php?path=%2Fwp_template%2Fall'>All Template</a></li><li id='wp-admin-bar-gutenverse-template-part'><a class='ab-item' href='https://prosperinpr.com/wp-admin/site-editor.php?path=%2Fwp_template_part%2Fall'>Template Part</a></li></ul></div></li><li id='wp-admin-bar-support'><a class='ab-item' href='https://wordpress.org/support/plugin/gutenverse/' target='_blank'>Got Question?</a></li><li id='wp-admin-bar-rate'><a class='ab-item' href='https://wordpress.org/support/plugin/gutenverse/reviews/#new-post' target='_blank'>Rate Us ★★★★★</a></li></ul></div></li><li id='wp-admin-bar-wpfc-toolbar-parent' class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true">Clear Cache</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpfc-toolbar-parent-default' class="ab-submenu"><li id='wp-admin-bar-wpfc-toolbar-parent-clear-cache-of-this-page' class="wpfc-toolbar-child"><div class="ab-item ab-empty-item">Clear Cache of This Page</div></li><li id='wp-admin-bar-wpfc-toolbar-parent-delete-cache' class="wpfc-toolbar-child"><div class="ab-item ab-empty-item">Delete Cache</div></li><li id='wp-admin-bar-wpfc-toolbar-parent-delete-cache-and-minified' class="wpfc-toolbar-child"><div class="ab-item ab-empty-item">Delete Cache and Minified CSS/JS</div></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://prosperinpr.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://prosperinpr.com/wp-admin/profile.php'>Howdy, <span class="display-name">admin</span><img alt='' src='https://secure.gravatar.com/avatar/ccb5270dac0ffd3fe060130fe2d99398?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ccb5270dac0ffd3fe060130fe2d99398?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://prosperinpr.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/ccb5270dac0ffd3fe060130fe2d99398?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ccb5270dac0ffd3fe060130fe2d99398?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>admin</span><span class='username'>admin_3paa0f93</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://prosperinpr.com/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://prosperinpr.com/wp-login.php?action=logout&#038;_wpnonce=9e4ceab79e'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://prosperinpr.com/wp-login.php?action=logout&#038;_wpnonce=9e4ceab79e">Log Out</a>
+					</div>
+
+				<div data-elementor-type="wp-page" data-elementor-id="357" class="elementor elementor-357">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2937e9f5 elementor-section-content-middle elementor-section-height-min-height elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2937e9f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1725722d" data-id="1725722d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c04b6f3 elementor-widget elementor-widget-elementskit-heading" data-id="c04b6f3" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-text_left"><h1 class="ekit-heading--title elementskit-section-title "><span><span>Easiest</span></span> Payment method ever</h1></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f230f71 elementor-widget elementor-widget-text-editor" data-id="f230f71" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-374f9991 elementor-widget elementor-widget-elementskit-dual-button" data-id="374f9991" data-element_type="widget" data-widget_type="elementskit-dual-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+                <div class="ekit-element-align-wrapper">
+                    <div class="ekit_double_button">                <a class="ekit-double-btn ekit-double-btn-one" href="#">
+                    Get Started                </a>
+            
+            <a class="ekit-double-btn ekit-double-btn-two" href="#">
+                    Contact Us                </a>
+                  </div>
+                </div>
+            </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2844b512" data-id="2844b512" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-45ad5a50 elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="45ad5a50" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="712" height="560" src="https://prosperinpr.com/wp-content/uploads/2023/11/Efficiencydark-1.png" class="elementor-animation-bob attachment-full size-full wp-image-28" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/Efficiencydark-1.png 712w, https://prosperinpr.com/wp-content/uploads/2023/11/Efficiencydark-1-600x472.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/Efficiencydark-1-300x236.png 300w" sizes="(max-width: 712px) 100vw, 712px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-dd281c7 elementor-invisible elementor-widget elementor-widget-image" data-id="dd281c7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1025" height="1297" src="https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x.png" class="attachment-full size-full wp-image-52" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x.png 1025w, https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x-600x759.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x-237x300.png 237w, https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x-809x1024.png 809w, https://prosperinpr.com/wp-content/uploads/2023/11/home-img-big@2x-768x972.png 768w" sizes="(max-width: 1025px) 100vw, 1025px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6b451488 elementor-widget__width-auto elementor-hidden-phone ekit-equal-height-disable elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="6b451488" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dollar"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Easy Payment                </h3>
+                                            </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2fc32b88 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fc32b88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b786466" data-id="5b786466" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-42de2139 elementor-widget elementor-widget-elementskit-client-logo" data-id="42de2139" data-element_type="widget" data-widget_type="elementskit-client-logo.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="elementskit-clients-slider  simple_logo_image" data-config="{&quot;rtl&quot;:false,&quoquot;arrows&quot;:false,&quot;dots&quot;:false,&quot;autoplay&quot;:true,&quot;speed&quot;:2000,&quot;slidesPerView&quot;:4,&quot;slidesPerGroup&quot;:1,&quot;pauseOnHover&quot;:true,&quot;loop&quot;:false,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:3,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:3,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;1024&quot;:{&quot;slidesPerView&quot;:4,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15}}}" data-direction="">
+			<div class="ekit-main-swiper swiper">
+				<div class="swiper-wrapper">
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Partner">
+									
+										<div class="content-image">
+
+											<img decoding="async" width="555" height="156" src="https://prosperinpr.com/wp-content/uploads/2023/11/global-trade-logo@2x.png" class="" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/global-trade-logo@2x.png 555w, https://prosperinpr.com/wp-content/uploads/2023/11/global-trade-logo@2x-300x84.png 300w" sizes="(max-width: 555px) 100vw, 555px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Partner 2">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="628" height="146" src="https://prosperinpr.com/wp-content/uploads/2023/11/marketup-logo@2x.png" class="" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/marketup-logo@2x.png 628w, https://prosperinpr.com/wp-content/uploads/2023/11/marketup-logo@2x-600x139.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/marketup-logo@2x-300x70.png 300w" sizes="(max-width: 628px) 100vw, 628px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Partner 3">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="561" height="155" src="https://prosperinpr.com/wp-content/uploads/2023/11/okfinance-logo@2x.png" class="" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/okfinance-logo@2x.png 561w, https://prosperinpr.com/wp-content/uploads/2023/11/okfinance-logo@2x-300x83.png 300w" sizes="(max-width: 561px) 100vw, 561px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Partner 4">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="555" height="156" src="https://prosperinpr.com/wp-content/uploads/2023/11/marketchat-logo@2x.png" class="" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/marketchat-logo@2x.png 555w, https://prosperinpr.com/wp-content/uploads/2023/11/marketchat-logo@2x-300x84.png 300w" sizes="(max-width: 555px) 100vw, 555px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Partner 5">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="568" height="154" src="https://prosperinpr.com/wp-content/uploads/2023/11/starbank-logo@2x.png" class="" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/starbank-logo@2x.png 568w, https://prosperinpr.com/wp-content/uploads/2023/11/starbank-logo@2x-300x81.png 300w" sizes="(max-width: 568px) 100vw, 568px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+									</div>
+
+				
+							</div><!-- .elementskit-clients-slider END -->
+		</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68526878 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68526878" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3794c803" data-id="3794c803" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bb6f11 elementor-invisible elementor-widget elementor-widget-image" data-id="bb6f11" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1225" height="1322" src="https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x.png" class="attachment-full size-full wp-image-53" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x.png 1225w, https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x-600x648.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x-278x300.png 278w, https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x-949x1024.png 949w, https://prosperinpr.com/wp-content/uploads/2023/11/app-mockup-2-a@2x-768x829.png 768w" sizes="(max-width: 1225px) 100vw, 1225px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8b36b6a" data-id="8b36b6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-48a2a6a6 elementor-widget elementor-widget-heading" data-id="48a2a6a6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Manage Everything in Your Hand</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6819b0d3 elementor-widget elementor-widget-text-editor" data-id="6819b0d3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-74e3da5d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74e3da5d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6574c14b" data-id="6574c14b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-176d46cc ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="176d46cc" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-grow">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-smartphone1"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    User Friendly                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2086d749 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="2086d749" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-grow">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-support"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Best Support                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e5e1ba6 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="2e5e1ba6" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-lef-right-aligin elementor-animation- media  ">
+                    <div class="elementskit-box-header elementor-animation-grow">
+                <div class="elementskit-info-box-icon  text-center">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-padlock-1"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Secure                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9cfa0b7 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9cfa0b7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cc15fcf" data-id="cc15fcf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-51f17e21 elementor-widget elementor-widget-heading" data-id="51f17e21" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Enjoy Various Merchant's Promos</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e2d7282 elementor-widget elementor-widget-text-editor" data-id="2e2d7282" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6a901dbc elementor-widget elementor-widget-elementskit-button" data-id="6a901dbc" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" >
+					
+					
+					GET started				</a>
+						</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6ccaec31" data-id="6ccaec31" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-76a7d2be elementor-widget elementor-widget-image" data-id="76a7d2be" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="901" height="795" src="https://prosperinpr.com/wp-content/uploads/2023/11/shape-1@2x.png" class="attachment-full size-full wp-image-54" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/shape-1@2x.png 901w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-1@2x-600x529.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-1@2x-300x265.png 300w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-1@2x-768x678.png 768w" sizes="(max-width: 901px) 100vw, 901px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-172055b2 animated-slow elementor-widget__width-initial elementor-absolute elementor-widget-tablet__width-initial elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="172055b2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="860" height="1737" src="https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x.png" class="elementor-animation-bob attachment-full size-full wp-image-56" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x.png 860w, https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x-600x1212.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x-149x300.png 149w, https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x-507x1024.png 507w, https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x-768x1551.png 768w, https://prosperinpr.com/wp-content/uploads/2023/11/shopping-icon-home@2x-760x1536.png 760w" sizes="(max-width: 860px) 100vw, 860px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2bb63bd0 elementor-widget__width-initial elementor-absolute elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="2bb63bd0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="712" height="560" src="https://prosperinpr.com/wp-content/uploads/2023/11/Last-Costslast-cost.png" class="elementor-animation-bob attachment-full size-full wp-image-40" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/Last-Costslast-cost.png 712w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Costslast-cost-600x472.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Costslast-cost-300x236.png 300w" sizes="(max-width: 712px) 100vw, 712px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-56119988 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="56119988" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6589ca3d" data-id="6589ca3d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-40785b2f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="40785b2f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3b39e891" data-id="3b39e891" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-44f8b36f elementor-widget elementor-widget-heading" data-id="44f8b36f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our Service</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4d66c7a3 elementor-widget elementor-widget-text-editor" data-id="4d66c7a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione. 						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-57ba0b14 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57ba0b14" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cc169e elementor-invisible" data-id="cc169e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:600}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6f2fbac2 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="6f2fbac2" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-invest"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Payment Management                 </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Learn More 
+                                        <i aria-hidden="true" class="icon icon-right-arrow"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-220f1b58 elementor-invisible" data-id="220f1b58" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-579ddaff ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="579ddaff" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-consut2"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Personal Dashboard                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Learn more 
+                                        <i aria-hidden="true" class="icon icon-right-arrow"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4539a1a4 elementor-invisible" data-id="4539a1a4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-52cd3a0e ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="52cd3a0e" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-app"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Integrated Payments                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Learn More 
+                                        <i aria-hidden="true" class="icon icon-right-arrow"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-436afdc7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="436afdc7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-332fe4b0 elementor-invisible" data-id="332fe4b0" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:1200}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37ada8a ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="37ada8a" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-coins-1"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Business Tracking                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Learn More 
+                                        <i aria-hidden="true" class="icon icon-right-arrow"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e722ae4 elementor-invisible" data-id="e722ae4" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:900}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-224dd837 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="224dd837" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-commerce"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Credit &amp; Debit Card                </h3>
+                        		  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="#"  target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Learn more 
+                                        <i aria-hidden="true" class="icon icon-right-arrow"></i>
+                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-530df6f2 elementor-invisible" data-id="530df6f2" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:1400}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-151a5cdd elementor-widget elementor-widget-text-editor" data-id="151a5cdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							We have a lot of powerful service that you can get. Check for more of our available services in our product.						</div>
+				</div>
+				<div class="elementor-element elementor-element-3171e8f2 elementor-widget elementor-widget-elementskit-button" data-id="3171e8f2" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" >
+					
+					
+					view more				</a>
+						</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c54e0e0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c54e0e0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4df24def" data-id="4df24def" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30c22501 elementor-widget elementor-widget-image" data-id="30c22501" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="356" height="356" src="https://prosperinpr.com/wp-content/uploads/2023/11/quoite-left-black@2x.png" class="attachment-full size-full wp-image-58" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/quoite-left-black@2x.png 356w, https://prosperinpr.com/wp-content/uploads/2023/11/quoite-left-black@2x-300x300.png 300w, https://prosperinpr.com/wp-content/uploads/2023/11/quoite-left-black@2x-100x100.png 100w, https://prosperinpr.com/wp-content/uploads/2023/11/quoite-left-black@2x-150x150.png 150w" sizes="(max-width: 356px) 100vw, 356px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-471804f7 elementor-widget elementor-widget-text-editor" data-id="471804f7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6600b41e elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6600b41e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-16307f67 elementor-hidden-tablet elementor-hidden-phone" data-id="16307f67" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3fd38277 elementor-widget elementor-widget-image" data-id="3fd38277" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="824" height="824" src="https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x.jpg" class="attachment-full size-full wp-image-59" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x.jpg 824w, https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x-300x300.jpg 300w, https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x-100x100.jpg 100w, https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x-600x600.jpg 600w, https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x-150x150.jpg 150w, https://prosperinpr.com/wp-content/uploads/2023/11/testi-foto@2x@2x-768x768.jpg 768w" sizes="(max-width: 824px) 100vw, 824px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1dddc315" data-id="1dddc315" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-71e8762a elementor-widget elementor-widget-heading" data-id="71e8762a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Jane Daya</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5d2d7cd0 elementor-widget elementor-widget-heading" data-id="5d2d7cd0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Customer</p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-67982f37 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67982f37" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-28384f75" data-id="28384f75" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5bdf693d elementor-widget elementor-widget-heading" data-id="5bdf693d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Support Payment From Every Plartform</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5fcd7670 elementor-widget elementor-widget-text-editor" data-id="5fcd7670" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.						</div>
+				</div>
+				<div class="elementor-element elementor-element-278b7f19 elementor-widget elementor-widget-heading" data-id="278b7f19" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Supported Payment :</h6>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-41da7792 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41da7792" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4e207233" data-id="4e207233" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15d48195 elementor-view-default elementor-widget elementor-widget-icon" data-id="15d48195" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-bob">
+			<i aria-hidden="true" class="fab fa-cc-mastercard"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3943dd8e" data-id="3943dd8e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50a21daf elementor-view-default elementor-widget elementor-widget-icon" data-id="50a21daf" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-bob">
+			<i aria-hidden="true" class="fab fa-cc-visa"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4866a712" data-id="4866a712" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-40625856 elementor-view-default elementor-widget elementor-widget-icon" data-id="40625856" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-bob">
+			<i aria-hidden="true" class="fab fa-cc-paypal"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-18ec0a9d" data-id="18ec0a9d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-250c9bd9 elementor-view-default elementor-widget elementor-widget-icon" data-id="250c9bd9" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon elementor-animation-bob">
+			<i aria-hidden="true" class="fab fa-cc-stripe"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-31fc3007" data-id="31fc3007" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-17ae086 elementor-widget elementor-widget-image" data-id="17ae086" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="871" src="https://prosperinpr.com/wp-content/uploads/2023/11/shape-img2@2x.png" class="attachment-full size-full wp-image-61" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/shape-img2@2x.png 1000w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-img2@2x-600x523.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-img2@2x-300x261.png 300w, https://prosperinpr.com/wp-content/uploads/2023/11/shape-img2@2x-768x669.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-575fe70e elementor-widget__width-initial elementor-absolute elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="575fe70e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="926" height="1088" src="https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1.png" class="elementor-animation-bob attachment-full size-full wp-image-49" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1.png 926w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1-600x705.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1-255x300.png 255w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1-872x1024.png 872w, https://prosperinpr.com/wp-content/uploads/2023/11/Last-Operation1-768x902.png 768w" sizes="(max-width: 926px) 100vw, 926px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3456bf00 elementor-widget__width-initial elementor-absolute animated-slow elementor-widget-tablet__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="3456bf00" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="996" height="1792" src="https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x.png" class="elementor-animation-bob attachment-full size-full wp-image-63" alt="" srcset="https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x.png 996w, https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x-600x1080.png 600w, https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x-167x300.png 167w, https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x-569x1024.png 569w, https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x-768x1382.png 768w, https://prosperinpr.com/wp-content/uploads/2023/11/payment-icon-home@2x-854x1536.png 854w" sizes="(max-width: 996px) 100vw, 996px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5dcbfc6b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dcbfc6b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4294ad61" data-id="4294ad61" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5b33feff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5b33feff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7fa3e6f7" data-id="7fa3e6f7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-27e199d7 elementor-widget elementor-widget-heading" data-id="27e199d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Keep Updated About Our Product</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-54d500a5" data-id="54d500a5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6181f1aa elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-elementskit-mail-chimp" data-id="6181f1aa" data-element_type="widget" data-widget_type="elementskit-mail-chimp.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-mail-chimp">
+		<form method="post" class="ekit-mailChimpForm" data-listed="" data-success-message="Successfully listed this email" data-success-opt-in-message="">
+			<div class="ekit-mail-message"></div>
+			<input type="hidden" name="double_opt_in" value="no">
+
+				<div class="elementskit_form_wraper elementskit_inline_form">
+													<div class="ekit-mail-chimp-email elementskit_input_wraper elementskit_input_container">
+						<div class="elementskit_form_group">
+														<div class="elementskit_input_element_container ">
+																<input type="email" aria-label="email" name="email" class="ekit_mail_email ekit_form_control " placeholder="Your email address" required />
+
+															</div>
+						</div>
+					</div>
+					<div class="ekit_submit_input_holder elementskit_input_wraper">
+						<button type="submit" aria-label="submit" class="ekit-mail-submit" name="ekit_mail_chimp">Submit</button>
+					</div>
+				</div>
+			</form>
+		</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+					<script type="text/javascript">
+				var wpfc_ajaxurl = "https://prosperinpr.com/wp-admin/admin-ajax.php";
+				var wpfc_nonce = "874b5b9c97";
+			</script>
+			<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='e-animations-css' href='https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.3' media='all' />
+<script id="wp-block-template-skip-link-js-after">
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		/*
+		 * Get the site wrapper.
+		 * The skip-link will be injected in the beginning of it.
+		 */
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Skip to content';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.3" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/prosperinpr.com\/index.php\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.3" id="contact-form-7-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.2.2" id="jquery-blockui-js"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/prosperinpr.com\/index.php\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.2.2" id="wc-add-to-cart-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.2.2" id="js-cookie-js"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.2.2" id="woocommerce-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.0.2" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://prosperinpr.com/index.php/wp-json/elementskit/v1/',
+		}
+
+		
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.0.2" id="ekit-widget-scripts-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/wp-fastest-cache/js/toolbar.js?ver=1700460186" id="wpfc-toolbar-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2" id="jquery-ui-draggable-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.17.3" id="elementor-common-modules-js"></script>
+<script id="elementor-web-cli-js-before">
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/prosperinpr.com\/index.php\/wp-json\/","assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"fd2b5c34f9","version":"3.17.3"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/prosperinpr.com\/index.php\/wp-json\/","assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"fd2b5c34f9","version":"3.17.3"};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.17.3" id="elementor-web-cli-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script id="wp-api-request-js-extra">
+var wpApiSettings = {"root":"https:\/\/prosperinpr.com\/index.php\/wp-json\/","nonce":"fd2b5c34f9","versionString":"wp\/v2\/"};
+</script>
+<script src="https://prosperinpr.com/wp-includes/js/api-request.min.js?ver=6.4.1" id="wp-api-request-js"></script>
+<script id="elementor-dev-tools-js-before">
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.17.3"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.17.3"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.17.3"}};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.17.3" id="elementor-dev-tools-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-common-js-before">
+var elementorCommonConfig = {"version":"3.17.3","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"block_editor_assets_optimize":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/prosperinpr.com\/index.php\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"library_connect":{"is_connected":false,"subscription_plans":[{"label":null,"promotion_url":null,"color":null},{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}],"base_access_level":0,"current_access_level":0},"ajax":{"url":"https:\/\/prosperinpr.com\/wp-admin\/admin-ajax.php","nonce":"3048a8a80f"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-app&ver=3.17.3#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Library","icon":"kit-parts","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-app&ver=3.17.3#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=9402d37822","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=9402d37822","keywords":["Add New Section","post","page","template","new","create"]},"container":{"title":"Add New Container","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=9402d37822","keywords":["Add New Container","post","page","template","new","create"]},"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=9402d37822","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=9402d37822","keywords":["Add New Page","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=9402d37822#library","keywords":["Add New Landing Page","post","page","template","new","create"]},"elementskit_content":{"title":"Add New ElementsKit item","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_content&_wpnonce=9402d37822","keywords":["Add New ElementsKit item","post","page","template","new","create"]},"elementskit_template":{"title":"Add New Template","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_template&_wpnonce=9402d37822","keywords":["Add New Template","post","page","template","new","create"]},"elementskit_widget":{"title":"Add New Widget","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_widget&_wpnonce=9402d37822","keywords":["Add New Widget","post","page","template","new","create"]},"metform-form":{"title":"Add New Form","icon":"plus-circle-o","url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=metform-form&_wpnonce=9402d37822","keywords":["Add New Form","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/prosperinpr.com","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/prosperinpr.com\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/prosperinpr.com\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/prosperinpr.com\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/prosperinpr.com\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/prosperinpr.com\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/prosperinpr.com\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"apps":{"title":"Apps","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.17.3" id="elementor-common-js"></script>
+<script id="elementor-app-loader-js-before">
+var elementorAppConfig = {"menu_url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-app&ver=3.17.3#site-editor\/promotion","assets_url":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/prosperinpr.com\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/prosperinpr.com\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/prosperinpr.com\/wp-admin\/","login_url":"https:\/\/prosperinpr.com\/wp-login.php","base_url":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-app&ver=3.17.3","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.17.3" id="elementor-app-loader-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/gutenverse/assets/frontend/react-player/ReactPlayer.standalone.js?ver=1.8.9" id="react-player-dep-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19" id="lodash-js"></script>
+<script id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/url.min.js?ver=b4979979018b684be209" id="wp-url-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a" id="wp-api-fetch-js"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://prosperinpr.com/index.php/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "fd2b5c34f9" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://prosperinpr.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id="gutenverse-frontend-event-js-extra">
+var GutenverseData = {"postId":"357","query":{"q_search":null},"settingsData":[]};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/gutenverse/assets/js/frontend.js?ver=1.8.9" id="gutenverse-frontend-event-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3" id="elementor-frontend-modules-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.17.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"block_editor_assets_optimize":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/prosperinpr.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":357,"title":"Prosper%20In%20PR","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3" id="elementor-frontend-js"></script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.0.2" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https:\/\/prosperinpr.com\/wp-admin\/admin-ajax.php","nonce":"1fd1463819"};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.2" id="elementskit-elementor-js"></script>
+<script id="elementor-admin-bar-js-before">
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"https:\/\/prosperinpr.com\/wp-admin\/post.php?post=357&action=elementor","children":{"358":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"https:\/\/prosperinpr.com\/wp-admin\/post.php?post=357&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"359":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"https:\/\/prosperinpr.com\/wp-admin\/admin.php?page=elementor-app&ver=3.17.3#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script src="https://prosperinpr.com/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.17.3" id="elementor-admin-bar-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script src="https://prosperinpr.com/wp-includes/js/admin-bar.min.js?ver=6.4.1" id="admin-bar-js"></script>
+	</body>
+</html>
